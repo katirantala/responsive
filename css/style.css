@@ -1,4 +1,4 @@
-: root {
+:root {
     --dark-background-color: #333;
     --light-background-color: #f5f5f5;
     --dark-foreground-color: #000; 
@@ -60,7 +60,7 @@ article {
 
 article div {
     margin: var(--general-margin);
-    border: 1 px solid var(--grey-foreground-color);
+    border: 1px solid var(--grey-foreground-color);
 }
 
 article div img {
